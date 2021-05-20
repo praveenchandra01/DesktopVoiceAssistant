@@ -3,7 +3,7 @@ Performs tasks on voice commands
 
 ## Features
 - Greet according to day time
-- Perform google search
+- Performs google search
 - Find location on google maps
 - Send emails
 - Wikipedia search
