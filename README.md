@@ -1,4 +1,4 @@
-# DesktopVoiceAssistant
+# Desktop Voice Assistant
 Performs tasks on voice commands
 
 ## Features
