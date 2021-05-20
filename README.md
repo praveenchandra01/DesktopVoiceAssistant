@@ -1,4 +1,5 @@
 # DesktopVoiceAssistant
+Performs tasks on voice commands
 
 ## Features
 - Greet according to day time
