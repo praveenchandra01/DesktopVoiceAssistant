@@ -12,9 +12,9 @@
 
 ## Package Used 
 - pyttsx3 (text-to-speech)
-- datetime
+- smtplib
 - speech_recognition
 - wikipedia
-- os
 - webbrowser
-- smtplib
+- os
+- datetime
