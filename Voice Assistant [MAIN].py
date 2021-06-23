@@ -153,7 +153,7 @@ if __name__ == '__main__':
             try:
                 speak("Please tell me the content of your email")
                 content = listen()
-                to = "chhayach08@gmail.com"
+                to = ""
                 sendEmail(to, content)
                 speak("Email has been sent!")
             except Exception:
