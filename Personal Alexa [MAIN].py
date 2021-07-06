@@ -11,7 +11,7 @@ import smtplib
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
 # print(voices[0].id)
-engine.setProperty('voice', voices[0].id)
+engine.setProperty('voice', voices[1].id)
 
 
 def speak(audio):
@@ -27,7 +27,7 @@ def greet():
         speak("Good Afternoon!")
     else:
         speak("Good evening!")
-    speak("I am Xemp. Please tell me how may i help you")
+    speak("I am alexa your virtual assistant. Please tell me how may i help you")
 
 
 def listen():
