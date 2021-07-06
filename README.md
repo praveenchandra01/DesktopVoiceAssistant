@@ -1,5 +1,6 @@
-# Desktop Voice Assistant
-Performs tasks on voice commands
+# Personal Alexa
+Personal Alexa is just like Amazon Alexa which performs tasks on voice commands, developed using Python
+It takes voice input and executes the task accordingly
 
 ## Features
 - Greet according to day time
@@ -7,11 +8,13 @@ Performs tasks on voice commands
 - Find location on google maps
 - Send emails
 - Wikipedia search
+- speaks
 - Play offline music
 - Open Spotify
 - Open youtube
 
-## Package Used 
+
+## Packages Used 
 - pyttsx3 (text-to-speech)
 - smtplib
 - speech_recognition
